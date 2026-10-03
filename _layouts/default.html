@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/swatch.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}">Swatch <span>Field notes for AI models</span></a>
+    <a class="github-link" href="{{ site.github.repository_url | default: '#' }}">GitHub</a>
+  </header>
+  <div class="docs-layout">
+    <aside class="sidebar" aria-label="File navigation">
+      {% include navigation.html %}
+    </aside>
+    <main><article class="content">{{ content }}</article></main>
+  </div>
+</body>
+</html>
+

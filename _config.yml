@@ -1,0 +1,10 @@
+title: Swatch
+description: A field kit for understanding how AI models behave.
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - docs/superpowers
+  - swatch-visual-prototype.html
+
