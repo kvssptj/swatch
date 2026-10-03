@@ -60,7 +60,7 @@ Each experiment gives me a different view of the model. Together, the experiment
 
 | Experiment | Test | What I learn |
 | --- | --- | --- |
-| Write a story from three photos | Use three unrelated photos in one road-trip story. | Imagination, visual grounding, narrative, style |
+| Write a story from three photos | Use three photographs in one road-trip story. | Imagination, visual grounding, narrative, style |
 | Describe a detailed image | Describe all relevant parts of a dense photograph. | Perception, space, detail, hallucination |
 | Recreate an image | Describe an image and then make a similar image. | Visual translation and image fidelity |
 | Improve a rough visual | Turn a rough visual and a brief into polished work. | Taste, composition, instruction use |
@@ -75,3 +75,7 @@ Each experiment gives me a different view of the model. Together, the experiment
 | Analyze a messy spreadsheet | Use a difficult spreadsheet to answer a business question. | Analysis, tool use, quantitative reasoning |
 | Complete a task with tools | Find options, compare them, and make an artifact. | Planning, tool selection, recovery |
 | Adapt to a changed brief | Change an important requirement during the task. | Adaptability and context updates |
+
+## Ready-to-run photography kit
+
+Start with the [photography kit](photography-kit.md): three photographs by Pavan, inputs for the story, description, and recreation experiments, and reviewer checklists with concrete quality anchors. Use the [run template](run-template.md) to preserve each attempt and compare the evidence.

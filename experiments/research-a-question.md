@@ -3,7 +3,6 @@ layout: default
 title: Research a question
 description: Test search, synthesis, and citation quality.
 section: Experiments
-version: 1
 ---
 
 # Research a question
@@ -18,7 +17,13 @@ Learn how the model finds sources and builds an evidence-based answer.
 
 ## Prompt
 
-> Research this question. Use eight to ten reliable sources. Explain where sources agree or disagree. Cite each important claim. Separate facts from your conclusions.
+> Research the supplied question and develop an evidence-based answer using current information. Establish the relevant scope and the date through which the answer is current, then give a direct answer before developing the supporting analysis.
+>
+> Use eight to ten reliable, relevant sources, favoring primary evidence and original reporting. Do not pad the source list with repeated coverage of the same underlying evidence. If fewer suitable sources are available, explain the shortfall. Check publication dates and distinguish when an event occurred from when it was reported.
+>
+> Synthesize the evidence around the question rather than summarizing each source in turn. Explain substantive agreement, disagreement, and gaps, including differences in definitions or methods that affect the conclusion. Place a linked citation next to each important factual claim and make sure the source supports it.
+>
+> Separate established findings from your interpretation. End with the main uncertainties and what additional evidence could change the answer. If you cannot access current sources, make that limitation explicit.
 
 ## What to observe
 

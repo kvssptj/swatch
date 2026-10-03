@@ -3,7 +3,6 @@ layout: default
 title: Analyze a messy spreadsheet
 description: Test analysis, tool use, and quantitative reasoning.
 section: Experiments
-version: 1
 ---
 
 # Analyze a messy spreadsheet
@@ -19,7 +18,13 @@ Learn how the model cleans data, uses tools, and supports a business conclusion.
 
 ## Prompt
 
-> Analyze this file and answer the business question. Explain how you cleaned the data. Show the calculations that support the answer. State all important limits.
+> Use the attached file to answer the supplied business question. Inspect the data structure, units, date coverage, and record granularity before choosing an analysis. Check for missing values, duplicate records, inconsistent labels, invalid values, and other issues that could materially affect the answer.
+>
+> Preserve the original data. Explain consequential cleaning decisions, including how you handle exclusions, missing values, and ambiguous records. Do not silently treat missing values as zero or remove unusual observations merely because they complicate the result.
+>
+> Show the calculations behind the conclusion, with clear metric definitions, denominators, units, and time periods. Provide reproducible formulas or analysis code and a cleaned file if you create one. Reconcile key counts or totals to the source and distinguish association from causation.
+>
+> Lead the final response with the business answer and supporting figures. Explain material limitations, how sensitive the conclusion is to uncertain assumptions, and which unresolved data issues could change the recommendation.
 
 ## What to observe
 

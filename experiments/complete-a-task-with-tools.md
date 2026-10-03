@@ -3,7 +3,6 @@ layout: default
 title: Complete a task with tools
 description: Test planning, tool selection, and recovery.
 section: Experiments
-version: 1
 ---
 
 # Complete a task with tools
@@ -19,7 +18,13 @@ Learn how the model plans and completes a task that needs several tools.
 
 ## Prompt
 
-> Find suitable options for this request. Compare the options against the stated needs. Then create the requested artifact. Check your work before you finish.
+> Complete the supplied request by researching suitable options, comparing them against the stated requirements, and producing the requested artifact. Use the available tools to carry the work through to a usable result.
+>
+> Identify the required outcome and distinguish essential constraints from preferences. Find viable options and verify the facts that determine their suitability. Compare them consistently, cite the relevant sources, and explain the tradeoffs behind your recommendation. Mark unavailable or uncertain information instead of estimating it without disclosure.
+>
+> Create the artifact in the requested format, using the verified findings. Check that its content, calculations, links, and structure are correct where applicable. If a tool or source fails, try a reasonable alternative and explain any limitation that affects the result.
+>
+> Return the artifact, a concise recommendation, and a summary of what you verified. Do not make purchases, bookings, or external commitments unless the request explicitly authorizes them.
 
 ## What to observe
 
