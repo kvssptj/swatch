@@ -9,7 +9,11 @@
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="{{ '/' | relative_url }}">Swatch <span>Field notes for AI models</span></a>
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/swatch-logo.png' | relative_url }}" alt="">
+      <strong>Swatch</strong>
+      <span>Field notes for AI models</span>
+    </a>
     <a class="github-link" href="{{ site.github.repository_url | default: '#' }}">GitHub</a>
   </header>
   <div class="docs-layout">

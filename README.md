@@ -7,6 +7,8 @@ permalink: /
 
 # Swatch
 
+<img class="landing-logo" src="assets/swatch-logo.png" alt="Textured Swatch fan deck logo" width="290">
+
 Swatch is a small set of tests that helps me understand how AI models behave.
 
 ## Why I made this

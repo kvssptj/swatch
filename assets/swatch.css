@@ -15,7 +15,9 @@ body { margin: 0; color: var(--text); background: var(--background); font: 15px/
 a { color: inherit; }
 .site-header { position: sticky; top: 0; z-index: 5; height: 64px; display: flex; align-items: center; justify-content: space-between; padding: 0 28px; border-bottom: 1px solid var(--line); background: rgba(255,255,255,.95); backdrop-filter: blur(10px); }
 .site-header a { text-decoration: none; }
-.brand { font-size: 18px; font-weight: 650; letter-spacing: -.035em; }
+.brand { display: flex; align-items: center; font-size: 18px; font-weight: 650; letter-spacing: -.035em; }
+.brand img { width: 34px; height: 34px; margin-right: 10px; object-fit: contain; }
+.brand strong { font-weight: 650; }
 .brand span { margin-left: 8px; color: var(--muted); font-weight: 400; }
 .github-link { color: var(--muted); font-size: 13px; }
 .docs-layout { display: grid; grid-template-columns: var(--sidebar-width) minmax(0,1fr); min-height: calc(100vh - 64px); }
@@ -42,6 +44,7 @@ code { padding: 2px 5px; overflow-wrap: anywhere; background: var(--surface); bo
 pre { max-width: 100%; padding: 18px; overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
 pre code { padding: 0; background: none; }
 img { max-width: 100%; height: auto; border-radius: 8px; }
+.landing-logo { display: block; width: min(290px, 58vw); margin: 0 0 38px; }
 .learning-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 22px 0 32px; }
 .learning-grid section { padding: 17px 18px; background: var(--surface); border-radius: 9px; }
 .learning-grid h3 { margin: 0 0 5px; }
