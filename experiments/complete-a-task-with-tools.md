@@ -27,7 +27,3 @@ Learn how the model plans and completes a task that needs several tools.
 - Does it select suitable tools?
 - Does it verify results before it acts?
 - Can it recover when a tool fails?
-
-## What to keep
-
-- Keep the request, tool record, artifact, model version, date, and your notes.

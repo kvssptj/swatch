@@ -27,7 +27,3 @@ Learn whether the model can find and combine facts that are spread across long d
 - Does it combine related facts correctly?
 - Are citations precise and valid?
 - Does it invent missing support?
-
-## What to keep
-
-- Keep the documents, question, prompt, answer, model version, date, and your notes.

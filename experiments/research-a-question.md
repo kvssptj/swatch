@@ -26,7 +26,3 @@ Learn how the model finds sources and builds an evidence-based answer.
 - Do citations support the related claims?
 - Does the model combine evidence instead of listing sources?
 - Does it state uncertainty and disagreement?
-
-## What to keep
-
-- Keep the question, prompt, answer, source links, model version, date, and your notes.

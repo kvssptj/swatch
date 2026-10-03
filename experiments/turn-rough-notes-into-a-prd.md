@@ -26,7 +26,3 @@ Learn how the model turns incomplete and conflicting information into a product 
 - Does it preserve uncertainty instead of hiding it?
 - Are the priorities supported by the notes?
 - Are the success measures useful and measurable?
-
-## What to keep
-
-- Keep the notes, prompt, PRD, model version, date, and your observations.

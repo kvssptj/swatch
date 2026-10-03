@@ -27,7 +27,3 @@ Learn how the model cleans data, uses tools, and supports a business conclusion.
 - Does it clean values without losing important records?
 - Are the calculations correct and repeatable?
 - Does the conclusion match the evidence?
-
-## What to keep
-
-- Keep the source file, cleaned file, prompt, analysis, model version, date, and your notes.

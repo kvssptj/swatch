@@ -26,7 +26,3 @@ Learn how the model connects unrelated visual details in one coherent story.
 - Are the connections original and believable?
 - Does the story have a clear voice and structure?
 - Does the model invent visual details that are not present?
-
-## What to keep
-
-- Keep the photos, exact prompt, raw story, model version, date, and your notes.

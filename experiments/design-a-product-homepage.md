@@ -26,7 +26,3 @@ Learn what the model does when it must make product, copy, and design decisions.
 - Does the model create useful information hierarchy?
 - Is the copy specific to the product?
 - Does the implementation work on desktop and mobile screens?
-
-## What to keep
-
-- Keep the product description, prompt, source files, screenshots, model version, date, and your notes.

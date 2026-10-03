@@ -27,7 +27,3 @@ Learn how the model turns incomplete visual direction into polished work.
 - Does it make a clear visual hierarchy?
 - Are its design choices suitable for the brief?
 - Can it explain the choices without vague design language?
-
-## What to keep
-
-- Keep the rough visual, brief, prompts, result, model version, date, and your notes.

@@ -26,7 +26,3 @@ Learn what the model sees, misses, and invents in a dense image.
 - Does it describe spatial relationships correctly?
 - Does it read visible text correctly?
 - Does it state uncertainty when the image is unclear?
-
-## What to keep
-
-- Keep the image, exact prompt, raw description, model version, date, and your notes.

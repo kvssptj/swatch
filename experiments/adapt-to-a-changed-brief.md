@@ -33,7 +33,3 @@ Learn how the model responds when an important requirement changes during a task
 - Does it update the full solution instead of adding a note?
 - Does it preserve useful work from the first response?
 - Does it explain important changes?
-
-## What to keep
-
-- Keep the initial prompt, first output, changed requirement, final output, model version, date, and your notes.

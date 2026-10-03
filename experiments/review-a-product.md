@@ -27,7 +27,3 @@ Learn how the model evaluates a product experience and selects important improve
 - Does it separate important problems from minor polish?
 - Are recommendations specific and practical?
 - Does it explain the reason for each priority?
-
-## What to keep
-
-- Keep the product input, context, prompt, review, model version, date, and your notes.

@@ -27,7 +27,3 @@ Learn whether the model can diagnose design problems instead of copying the sour
 - Does it set clear priorities?
 - Does the redesign solve the stated problems?
 - Does it add unnecessary features or decoration?
-
-## What to keep
-
-- Keep the source, context, prompt, critique, redesign, model version, date, and your notes.

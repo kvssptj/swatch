@@ -27,7 +27,3 @@ Learn how the model converts an image into language and then into a new image.
 - Which details survive the full process?
 - Which details change or disappear?
 - Does the result keep the reference mood and visual hierarchy?
-
-## What to keep
-
-- Keep the reference, description, generated image, prompts, model versions, date, and your notes.
