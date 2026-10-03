@@ -40,16 +40,6 @@ Download the files and attach them to the model. Do not give the page captions o
 
 These photos show mountain roads. The story experiment tests how well a model creates one connected journey. It does not test how the model connects unrelated subjects. The photos do not show their actual sequence or the relationship between their locations.
 
-## Run a small comparison
-
-1. Choose two models. Run each experiment twice with each model. Start each run in a new chat. This gives you twelve runs across the three experiments. Use the results to explore model behavior. Do not use them as a statistical ranking.
-2. Use the same files, attachment order, exact prompt, and available tools. For story and description runs, turn off browsing where possible so the model works from the images. Record any differences you cannot control.
-3. Save the complete first response and any generated files before reviewing. Keep failures and incomplete attempts. Record follow-ups separately rather than replacing the original output.
-4. Use the [run template](run-template.md) and the experiment's reviewer guide. Keep the guide out of the model's conversation.
-5. Put comparable outputs beside one another. Note specific evidence, recurring strengths, failures, and variation between attempts. Where practical, review outputs under anonymous run IDs before revealing model names.
-
-For recreation, record both the describing model and the image generator. Compare description-only generation separately from generation that also receives the reference image. If the generator differs, conclusions concern the combined workflow rather than the describing model alone.
-
 ## Context policy
 
 The default runs use only the photographs and prompt. Do not add trip memories, inferred locations, dates, or a proposed story sequence. A later run may include photographer-provided context, but save that context verbatim and compare it only with similarly informed runs.
