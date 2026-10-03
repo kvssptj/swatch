@@ -78,4 +78,4 @@ Each experiment gives me a different view of the model. Together, the experiment
 
 ## Ready-to-run photography kit
 
-Start with the [photography kit](photography-kit.md): three photographs by Pavan, inputs for the story, description, and recreation experiments, and reviewer checklists with concrete quality anchors. Use the [run template](run-template.md) to preserve each attempt and compare the evidence.
+Start with my [photography kit](photography-kit.md). It has three photos for the story, description, and recreation experiments. It also has review guides with clear quality checks. Use the [run template](run-template.md) to save each run and compare the results.

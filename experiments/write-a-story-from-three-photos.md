@@ -15,13 +15,15 @@ Learn how the model connects visual details from three scenes in one coherent st
 
 - Photos 01, 02, and 03 from the photography kit.
 
-## Use the supplied photographs
+## Use the photos
 
-[Preview the photographs and download the inputs](../photography-kit.md). Photography by Pavan.
+> **Photographs**
+>
+> [Preview and download the photos]({{ '/photography-kit/' | relative_url }})
 
-Attach Photo 01, Photo 02, Photo 03 in that order in a fresh chat, then paste only the prompt below. Use the same files in every comparable run. Do not supply the reviewer guide or page captions.
+Start a new chat. Attach Photo 01, Photo 02, and Photo 03 in that order. Then, paste only the prompt below. Use the same files for each run that you want to compare. Do not give the page captions or the review guide to the model.
 
-This set shares a mountain-road setting. Evaluate continuity and visual grounding; the photos do not establish a real travel sequence.
+The photos show mountain roads. Use them to test continuity and visual accuracy. The photos do not show the sequence of a real trip.
 
 ## Prompt
 
@@ -40,4 +42,8 @@ This set shares a mountain-road setting. Evaluate continuity and visual groundin
 
 ## Review and record
 
-Use the [reviewer checklist and quality anchors](../reviewer-guides/story.md) after saving the output. Record evidence with the [shared run template](../run-template.md).
+> **Review guide**
+>
+> [Open the reviewer checklist and quality anchors]({{ '/reviewer-guides/story/' | relative_url }})
+
+Save the response before you use the review guide.

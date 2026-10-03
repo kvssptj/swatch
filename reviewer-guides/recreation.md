@@ -1,12 +1,18 @@
+---
+layout: default
+title: Recreation reviewer guide
+description: Review an image recreation for prompt quality, composition, detail, and appearance.
+---
+
 # Recreation reviewer guide
 
-Use after the run. Do not attach this guide to the model conversation. Input: [Photo 02](../assets/photography/photo-02.png).
+Use this guide after the run. Do not give this guide to the model. Use [Photo 02]({{ '/assets/photography/photo-02.png' | relative_url }}) as the input.
 
 ## Visible reference details
 
 - A landscape-oriented photograph of a snow-covered mountain valley.
 - The valley recedes toward the central distance, framed by slopes on both sides.
-- The foreground is a broad, comparatively smooth snowbank; the middle distance contains dark exposed rock and more textured slopes.
+- The foreground is a broad, smooth snowbank. The middle distance has dark exposed rock and slopes with more texture.
 - Winding dark road segments appear near the lower center. They are a small but distinctive feature, not a wide foreground highway.
 - Low white and gray clouds obscure portions of the upper terrain, with deep blue sky visible above.
 - The palette is predominantly white, cool gray, dark rock, and blue. There are no prominent foreground people, buildings, or trees.
@@ -40,4 +46,4 @@ Judge fidelity separately from attractiveness. A beautiful image may be an inacc
 
 ## Record evidence
 
-Place the reference and generated image side by side at comparable display sizes. Identify the three most consequential matches and departures. Separate details omitted by the description from details specified correctly but lost by the generator. Record uncertainty about attribution where tool behavior is opaque. Use the [run template](../run-template.md).
+Put the reference image and the generated image side by side. Use the same display size for both images. Identify the three most important matches and differences. Keep details that are missing from the description separate from details that the generator did not make. Record uncertainty when you cannot identify the cause of a difference. Use the [run template]({{ '/run-template/' | relative_url }}).

@@ -1,12 +1,18 @@
+---
+layout: default
+title: Story reviewer guide
+description: Review a story for visual accuracy, structure, voice, and creative use of the photos.
+---
+
 # Story reviewer guide
 
-Use after the run. Do not attach this guide to the model conversation. Input: [Photo 01](../assets/photography/photo-01.png), [Photo 02](../assets/photography/photo-02.png), and [Photo 03](../assets/photography/photo-03.png).
+Use this guide after the run. Do not give this guide to the model. Use [Photo 01]({{ '/assets/photography/photo-01.png' | relative_url }}), [Photo 02]({{ '/assets/photography/photo-02.png' | relative_url }}), and [Photo 03]({{ '/assets/photography/photo-03.png' | relative_url }}) as the inputs.
 
 ## Visible reference details
 
-- Photo 01: a yellow marker on a broad base to the right; a densely sticker-covered board to the left; pale fabric hanging around the board; snow, exposed rocks, a mountain slope, blue sky, and clouds.
-- Photo 02: a snow-covered valley receding toward the center; dark exposed rock; winding road segments near the lower center; low clouds obscuring higher terrain; a broad snowy foreground.
-- Photo 03: a dark paved road curving through the foreground; rocky, largely snow-free slopes; pale buildings in the lower-right distance; a broad valley floor; a brightly lit mountain face to the right and blue sky above.
+- Photo 01: A yellow marker is on a broad base to the right. A board covered with stickers is to the left. Pale fabric hangs from the board. The image also shows snow, exposed rocks, a mountain slope, blue sky, and clouds.
+- Photo 02: A snow-covered valley extends toward the center. The image shows dark exposed rock and road sections near the lower center. Low clouds hide some of the high terrain. A broad area of snow is in the foreground.
+- Photo 03: A dark paved road curves through the foreground. The slopes are rocky and have little or no snow. Pale buildings are in the distance on the lower right. The image also shows a broad valley floor, a bright mountain face to the right, and blue sky.
 
 These are visual anchors, not a required list of words. The images do not establish travel order, elapsed time, weather experienced by a traveler, or the identities and motivations of any characters.
 
@@ -17,7 +23,7 @@ These are visual anchors, not a required list of words. The images do not establ
 - [ ] A character has a motivation, encounters a meaningful turn, and reaches an earned ending.
 - [ ] Connections between the scenes are understandable within the fiction.
 - [ ] Voice and perspective remain consistent.
-- [ ] The response includes a title and approximately 700 words, without process commentary. Record the actual length; do not treat a minor deviation as a major failure.
+- [ ] The response has a title and approximately 700 words. It does not include comments about the writing process. Record the actual length. Do not treat a small difference in length as a major failure.
 - [ ] Fictional characters and events are distinguished in your review from contradictions of visible scenery.
 
 ## Quality anchors
@@ -33,6 +39,6 @@ Invented dialogue, people, and events are allowed. Do not penalize a fictional t
 
 ## Record evidence
 
-Quote a short passage for each material judgment and identify the relevant photo. Note one successful connection, one missed opportunity, and any contradiction. Use strong, mixed, weak, or not assessable per dimension; do not average them into a total score.
+Quote a short passage for each important judgment. Identify the applicable photo. Record one successful connection, one missed opportunity, and each contradiction. For each dimension, use strong, mixed, weak, or not assessable. Do not calculate a total score.
 
-Save observations in the [run template](../run-template.md).
+Save your observations in the [run template]({{ '/run-template/' | relative_url }}).

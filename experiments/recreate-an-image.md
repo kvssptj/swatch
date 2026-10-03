@@ -16,13 +16,15 @@ Learn how the model converts an image into language and then into a new image.
 - Photo 02 from the photography kit.
 - An image generation tool or model.
 
-## Use the supplied photographs
+## Use the photo
 
-[Preview the photographs and download the inputs](../photography-kit.md). Photography by Pavan.
+> **Photograph**
+>
+> [Preview and download the photo]({{ '/photography-kit/' | relative_url }})
 
-Attach Photo 02 in a fresh chat, then paste only the prompt below. Use the same files in every comparable run. Do not supply the reviewer guide or page captions.
+Start a new chat. Attach Photo 02. Then, paste only the prompt below. Use the same file for each run that you want to compare. Do not give the page caption or the review guide to the model.
 
-Use an image-capable workflow. Record the generator and whether it receives the reference image; text-only and reference-assisted generation are separate conditions. A description without a generated image is a partial run.
+Use a model that can make images. Record the image generator. Also record whether the generator receives the reference image. A text-only run and a reference-image run are different tests. If the model gives you a description but does not make an image, record the run as partial.
 
 ## Prompt
 
@@ -43,4 +45,8 @@ Use an image-capable workflow. Record the generator and whether it receives the 
 
 ## Review and record
 
-Use the [reviewer checklist and quality anchors](../reviewer-guides/recreation.md) after saving the output. Record evidence with the [shared run template](../run-template.md).
+> **Review guide**
+>
+> [Open the reviewer checklist and quality anchors]({{ '/reviewer-guides/recreation/' | relative_url }})
+
+Save the response before you use the review guide.

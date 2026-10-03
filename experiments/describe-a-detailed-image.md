@@ -15,17 +15,19 @@ Learn what the model sees, misses, and invents in a dense image.
 
 - Photo 01 from the photography kit.
 
-## Use the supplied photographs
+## Use the photo
 
-[Preview the photographs and download the inputs](../photography-kit.md). Photography by Pavan.
+> **Photograph**
+>
+> [Preview and download the photo]({{ '/photography-kit/' | relative_url }})
 
-Attach Photo 01 in a fresh chat, then paste only the prompt below. Use the same files in every comparable run. Do not supply the reviewer guide or page captions.
+Start a new chat. Attach Photo 01. Then, paste only the prompt below. Use the same file for each run that you want to compare. Do not give the page caption or the review guide to the model.
 
 ## Prompt
 
 > Describe the attached image so that someone who cannot see it can understand the scene and the relationships within it. Begin with a concise overview, then work through the foreground, middle ground, and background where those distinctions apply.
 >
-> Identify the main subjects and relevant secondary details, including objects, actions, colors, materials, lighting, and visible text. Locate important elements relative to one another and distinguish overlapping or partially obscured objects. Transcribe text as it appears; mark unreadable portions instead of completing them from context.
+> Identify the main subjects and the important secondary details. Include objects, actions, colors, materials, lighting, and visible text. Show where important items are in relation to each other. Identify items that overlap or are partly hidden. Copy visible text as it appears. Mark text that you cannot read. Do not complete unreadable text from the context.
 >
 > Separate directly visible evidence from interpretations about the setting, activity, or mood. State uncertainty where resolution or occlusion limits what you can determine. Prioritize an accurate, navigable description over an exhaustive list of speculative details.
 
@@ -38,4 +40,8 @@ Attach Photo 01 in a fresh chat, then paste only the prompt below. Use the same 
 
 ## Review and record
 
-Use the [reviewer checklist and quality anchors](../reviewer-guides/description.md) after saving the output. Record evidence with the [shared run template](../run-template.md).
+> **Review guide**
+>
+> [Open the reviewer checklist and quality anchors]({{ '/reviewer-guides/description/' | relative_url }})
+
+Save the response before you use the review guide.
