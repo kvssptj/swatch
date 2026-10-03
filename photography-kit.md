@@ -6,7 +6,7 @@ description: Three photographs and a repeatable workflow for visual experiments.
 
 # Photography kit
 
-I use these photos for three experiments: write a story, describe an image, and recreate an image. I use PNG copies in this kit. The kit does not include the original camera files, capture dates, or verified metadata. It does not give permission to reuse the photos.
+I use these photos for three experiments: write a story, describe an image, and recreate an image. 
 
 ## The photographs
 
