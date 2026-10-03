@@ -30,4 +30,3 @@ Learn how the model turns incomplete and conflicting information into a product 
 ## What to keep
 
 - Keep the notes, prompt, PRD, model version, date, and your observations.
-

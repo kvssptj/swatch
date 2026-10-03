@@ -30,4 +30,3 @@ Learn what the model does when it must make product, copy, and design decisions.
 ## What to keep
 
 - Keep the product description, prompt, source files, screenshots, model version, date, and your notes.
-

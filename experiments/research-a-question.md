@@ -30,4 +30,3 @@ Learn how the model finds sources and builds an evidence-based answer.
 ## What to keep
 
 - Keep the question, prompt, answer, source links, model version, date, and your notes.
-

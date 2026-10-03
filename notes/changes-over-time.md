@@ -14,4 +14,3 @@ Keep the prompt, inputs, and observation guide equal. Record all changes that ar
 Place the oldest run first. Show the artifacts at a useful size.
 
 Describe what changed. Note new strengths, lost strengths, repeated errors, and different behavior.
-

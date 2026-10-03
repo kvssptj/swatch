@@ -30,4 +30,3 @@ Learn how the model responds when a leader gives a broad request with little dir
 ## What to keep
 
 - Keep the context, prompt, full conversation, model version, date, and your notes.
-

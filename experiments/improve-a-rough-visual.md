@@ -31,4 +31,3 @@ Learn how the model turns incomplete visual direction into polished work.
 ## What to keep
 
 - Keep the rough visual, brief, prompts, result, model version, date, and your notes.
-

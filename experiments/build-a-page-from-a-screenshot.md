@@ -31,4 +31,3 @@ Learn how well the model reads a visual reference and turns it into working code
 ## What to keep
 
 - Keep the screenshot, prompt, source files, rendered result, model version, date, and your notes.
-

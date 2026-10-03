@@ -27,4 +27,3 @@ State what you want to learn.
 ## What to keep
 
 - Keep the exact prompt, inputs, output, model version, date, and your notes.
-

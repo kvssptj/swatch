@@ -23,4 +23,3 @@ Add or link the complete output.
 ## Observations
 
 Describe important differences. Do not select a winner.
-

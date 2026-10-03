@@ -31,4 +31,3 @@ Learn how the model converts an image into language and then into a new image.
 ## What to keep
 
 - Keep the reference, description, generated image, prompts, model versions, date, and your notes.
-

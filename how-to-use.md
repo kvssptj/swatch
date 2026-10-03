@@ -28,4 +28,3 @@ Write notes while the work is fresh. Record strengths, errors, assumptions, surp
 ## Compare runs
 
 Compare runs that use the same experiment and inputs. Show the work before you add your conclusions.
-

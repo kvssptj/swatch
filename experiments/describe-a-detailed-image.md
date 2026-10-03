@@ -30,4 +30,3 @@ Learn what the model sees, misses, and invents in a dense image.
 ## What to keep
 
 - Keep the image, exact prompt, raw description, model version, date, and your notes.
-

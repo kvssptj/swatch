@@ -28,4 +28,3 @@ Add the complete output. Do not correct it.
 ## Observations
 
 Record what you noticed. Separate facts from interpretations.
-

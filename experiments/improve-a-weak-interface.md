@@ -31,4 +31,3 @@ Learn whether the model can diagnose design problems instead of copying the sour
 ## What to keep
 
 - Keep the source, context, prompt, critique, redesign, model version, date, and your notes.
-

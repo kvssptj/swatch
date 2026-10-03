@@ -30,4 +30,3 @@ Learn how the model connects unrelated visual details in one coherent story.
 ## What to keep
 
 - Keep the photos, exact prompt, raw story, model version, date, and your notes.
-

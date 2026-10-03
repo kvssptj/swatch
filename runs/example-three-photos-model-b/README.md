@@ -62,4 +62,3 @@ June held up the old photograph. Ruth stood beside her and studied both versions
 - The bicycle is visible but less important after the midpoint.
 - The model adds unsupported names, locations, and history.
 - The ending keeps some uncertainty and avoids a full explanation.
-

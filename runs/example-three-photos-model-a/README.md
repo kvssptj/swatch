@@ -56,4 +56,3 @@ They repaired the tire with a kit from Lidia's car. Then they moved the plates, 
 - The bicycle has a useful role in the plot.
 - The model adds several unsupported details, including names, notes, and a funeral.
 - The ending is controlled but slightly too complete.
-

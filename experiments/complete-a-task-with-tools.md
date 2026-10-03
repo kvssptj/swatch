@@ -31,4 +31,3 @@ Learn how the model plans and completes a task that needs several tools.
 ## What to keep
 
 - Keep the request, tool record, artifact, model version, date, and your notes.
-
